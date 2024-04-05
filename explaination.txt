@@ -1,0 +1,5 @@
+How it works?
+The app is designed to be dynamic, with placeholders for weather data elements using unique IDs.JavaScript will be used to fetch real-time weather data from a weather API, and update these placeholders with the actual data for the selected city.
+
+purpose of this app?
+this weather app's purpose is to provide users with up-to-date weather information for a specific city, allowing them to check temperature, humidity, and wind conditions, as well as access sunrise and sunset times.
